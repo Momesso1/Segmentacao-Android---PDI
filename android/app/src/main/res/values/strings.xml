@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Segmentação de Animais</string>
+    <string name="btn_pick">Selecionar imagem</string>
+    <string name="btn_run">Segmentar</string>
+    <string name="label_original">Original</string>
+    <string name="label_result">Máscara sobreposta</string>
+    <string name="status_pick">Selecione uma imagem para começar.</string>
+    <string name="status_ready">Imagem carregada. Toque em \"Segmentar\".</string>
+    <string name="status_running">Rodando inferência…</string>
+    <string name="status_done">Concluído em %1$d ms.</string>
+    <string name="toast_no_image">Selecione uma imagem primeiro.</string>
+</resources>
